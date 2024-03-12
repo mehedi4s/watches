@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "TechX Pro", "price": 249.99 },
+  { "id": 2, "name": "Quantum Watch 3", "price": 189.95 },
+  { "id": 3, "name": "EliteFit Tracker", "price": 199.99 },
+  { "id": 4, "name": "SmartPulse 500", "price": 159.50 },
+  { "id": 5, "name": "SleekSmart X1", "price": 219.00 }
+]
